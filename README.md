@@ -1,5 +1,25 @@
-# ShushMe
-Google Places API demo app
+# IDENTITAS:
+Nama: Ainnaya Nur Akasah
+
+Kelas / No Urut: XIIRPL6 / 03
+
+NIS: 4653/1372.070
+
+Angkatan: 24
+
+Nama Sekolah: SMK Telkom Malang
+
+# NAMA APLIKASI
+Shush Me
+
+# LINK FILE APK:
+Anda bisa mendapatkan aplikasi ini dengan cara Klik tulisan di samping -->
+[Shush Me 4](https://docs.google.com/uc?export=download&id=0BxRyC99DsxNVSkFMYjVWV2h6T1k)
+
+**catatan:** Aplikasi masih belum sempurna, disempurnakan pada [Shush Me 5](https://github.com/Ainnaya/ShussMe5)
+
+# DESKRIPSI APLIKASI:
+ShushMe memungkinkan Anda memilih serangkaian lokasi yang menggunakan Google Place API, kemudian membuat geofence di sekitar tempat tersebut dan mengubah perangkat menjadi mode senyap jika Anda memasukkannya. Setelah perangkat keluar lagi, ShushMe mengubah perangkat kembali ke normal (apa pun mode dering dan volume yang Anda atur sebelum masuk)
 
 ## Screenshots
 
